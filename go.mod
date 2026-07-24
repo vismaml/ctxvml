@@ -1,4 +1,4 @@
-module github.com/e-conomic/ctxvml
+module github.com/vismaml/ctxvml
 
 go 1.26.2
 
