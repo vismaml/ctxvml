@@ -4,7 +4,7 @@ go 1.26.2
 
 require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
-	google.golang.org/grpc v1.82.1
+	google.golang.org/grpc v1.83.1
 )
 
 require (
