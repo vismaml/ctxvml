@@ -1,6 +1,6 @@
 module github.com/vismaml/ctxvml
 
-go 1.26.10
+go 1.26.11
 
 require (
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
